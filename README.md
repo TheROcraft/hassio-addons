@@ -23,7 +23,7 @@ To use these add-ons, you need to add this repository to your Home Assistant ins
 3. Click the **Add-on Store** button in the bottom right corner.
 4. Click the **three dots (⋮)** in the top right corner and select **Repositories**.
 5. **Paste the URL** and click **Add**.
-6. Close the popup. You will now see the new category **"My Home Assistant Add-ons"** in the store.
+6. Close the popup. You will now see the new category **"Hass-io Addons by TheROcraft"** in the store.
 
 ---
 
@@ -31,19 +31,7 @@ To use these add-ons, you need to add this repository to your Home Assistant ins
 
 If you encounter any bugs or have a feature request for one of the add-ons:
 1. Check the specific add-on's `README.md` for detailed instructions.
-2. Open an **Issue** in this repository with a detailed description of your problem and your system logs.
+2. Conntact me at [hassio@therocraft.lol](mailto:hassio@therocraft.lol).
 
 ---
-
-## 👨‍💻 Contribution
-
-Feel free to fork this repository or submit a pull request if you want to improve an add-on. Feedback and contributions are always welcome!
-
----
-
-## 📜 License
-
-Most add-ons in this repository are released under the **MIT License**. Please check the individual add-on folders for specific license details regarding the core applications.
-
----
-*Maintained with ❤️ by [Your Name or Username]*
+*Maintained with ❤️ by TheROcraft*
