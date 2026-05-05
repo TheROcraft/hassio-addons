@@ -18,7 +18,7 @@ Welcome to my personal Home Assistant Add-on collection. This repository provide
 To use these add-ons, you need to add this repository to your Home Assistant instance:
 
 1. **Copy the URL** of this GitHub repository:  
-   `https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME`
+   `https://github.com/TheROcraft/hassio-addons`
 2. Open your Home Assistant dashboard and navigate to **Settings** > **Add-ons**.
 3. Click the **Add-on Store** button in the bottom right corner.
 4. Click the **three dots (⋮)** in the top right corner and select **Repositories**.
