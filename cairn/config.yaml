@@ -1,6 +1,6 @@
 name: "Cairn"
 description: "❇️ | Self-hosted uptime monitoring with incident management and status pages"
-version: "1.0.2.1"
+version: "1.0.2.2"
 slug: "cairn"
 url: "https://github.com/TRC-Loop/cairn"
 startup: services
