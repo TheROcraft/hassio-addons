@@ -1,7 +1,7 @@
 FROM golang:1.25-alpine AS builder
 RUN apk add --no-cache git gcc musl-dev sqlite-dev
 WORKDIR /src
-RUN git clone --branch v1.0.1 https://github.com/TRC-Loop/cairn.git .
+RUN git clone --branch v1.0.2 https://github.com/TRC-Loop/cairn.git .
 WORKDIR /src/cmd/cairn
 ENV CGO_ENABLED=1
 RUN go mod download
