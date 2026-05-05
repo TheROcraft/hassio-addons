@@ -17,9 +17,4 @@ COPY run.sh /
 
 RUN sed -i 's/\r$//' /run.sh && chmod a+x /run.sh
 
-# Variablen
-ENV CAIRN_DATABASE_URL="sqlite:////data/cairn.db"
-ENV HOST=0.0.0.0
-ENV PORT=8080
-
 CMD [ "/bin/sh", "/run.sh" ]
